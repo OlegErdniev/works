@@ -1,0 +1,47 @@
+
+.saratov{
+	background: cyan;
+	letter-spacing: 1px;
+	padding: 2em 10%;
+
+
+
+}
+#pivas{
+	width: 100px;
+	height: 100px;
+}
+.saratov h1{
+	display: inline-block;
+	text-align: left;
+	margin: 10px;
+}
+.div-inline{
+	display: inline-block;
+}
+button{
+	border: none;
+	display: inline-block;
+	padding: 15px 32px;
+	margin: 45px;
+}
+
+.elem{
+    
+
+        border-width: 3px;    
+            border-style: groove;  
+            border-color: red;    
+            width: auto;
+            height: auto;
+            
+    }
+
+
+
+
+
+p{
+    
+    margin: 30px;
+    }

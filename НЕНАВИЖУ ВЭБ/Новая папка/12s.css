@@ -1,0 +1,14 @@
+.elem{
+    
+
+        border-width: 3px;    
+            border-style: groove;  
+            border-color: red;    
+            width: auto;
+            height: auto;
+            
+    }
+p{
+    
+    margin: 30px
+    }

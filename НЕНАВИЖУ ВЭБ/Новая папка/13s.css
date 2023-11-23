@@ -1,0 +1,33 @@
+#raz{
+  		  display:block;
+  		  background-color: red;
+    }
+
+#dva{
+  		  display:inline-block;
+  		  color: green;
+    }
+
+#tri{
+  		  display:none;
+  		  color:blue;
+    }
+
+#chetire{
+  		  
+  		  color:cyan;
+    }
+
+#pyat{
+  		  
+  		  color:violet;
+    }
+.div-5 {
+	display: flex;
+	justify-content: space-between;
+
+}
+.div-4{
+	display: grid;
+}
+
